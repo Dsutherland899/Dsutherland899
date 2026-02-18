@@ -13,3 +13,4 @@ I enjoy working on databases and conduction data analysis, evere since I got a c
 The main languages I use are SQL and Pyhton, while creating visualistions in PowerBI.
 
 I using GitHub to show projects I am working on and my overall learning journey.
+
