@@ -8,7 +8,7 @@
 -->
 I'm David, an Account Manager based in London. 
 
-I enjoy working on databases and conducting data analysis ever since I got a chance to study and use Data Analysis during my time at Imperial College Business School and previous work experience.
+I have enjoyed working on databases and conducting data analysis ever since I got a chance to study and use Data Analysis during my time at Imperial College Business School and previous work experience.
 
 The main languages I use are SQL and Pyhton, while creating visualisations in PowerBI.
 
